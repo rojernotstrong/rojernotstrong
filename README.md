@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @rojernotstrong
+- 🌱我目前正在学习python入门
+- 💞️ 寻找一起学习的伙伴
+- 📫 Email 2206988025@qq.com
